@@ -39,6 +39,8 @@ The analysis is primarily visualized through interactive Power BI dashboards, of
 +	Line charts showing trends in ROI and acquisition costs over the year.
 +	Pie charts illustrating the distribution of campaigns by age group, gender, and location.
 +	Maps showing conversion and engagement by geographical location.
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
 # How to Use the Project
 2.	Open the Power BI File:
 +	The Power BI report file (Project.pbix) is located in the repository.
