@@ -49,11 +49,9 @@ The analysis is primarily visualized through interactive Power BI dashboards, of
 +	The dashboards include slicers to filter data by date range, channel, target audience, location, customer segment, and more.
 +	Use the interactive visualizations to uncover detailed insights for each metric and make data-driven decisions.
 # Folder Structure
-|-- dataset/
-|   |-- social_media_ad_data.xls  # The dataset used for the analysis
-|-- Project /
-|   |-- social_media_ad_analytics.pbix  # Power BI file with dashboards and visualizations
-|-- README.md  # Project documentation
++ Dataset Folder includes social_media_ad_data.xls  # The dataset used for the analysis
++ Power bi Analysis file Foldere includes social_media_ad_analytics.pbix  # Power BI file with dashboards and visualizations
++ README.md  # Project documentation
 # Requirements
 To view and interact with the analysis:
 +	Power BI Desktop: Download and install Power BI Desktop.
