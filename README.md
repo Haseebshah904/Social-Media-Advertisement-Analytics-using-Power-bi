@@ -40,7 +40,7 @@ The analysis is primarily visualized through interactive Power BI dashboards, of
 +	Pie charts illustrating the distribution of campaigns by age group, gender, and location.
 +	Maps showing conversion and engagement by geographical location.
  ![Image Alt](https://github.com/Haseebshah904/Social-Media-Advertisement-Analytics-using-Power-bi/blob/main/Power%20bi%20Part1%20Social.PNG?raw=true)
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Haseebshah904/Social-Media-Advertisement-Analytics-using-Power-bi/blob/main/Power%20bi%20Part2%20Social.PNG?raw=true)
 # How to Use the Project
 2.	Open the Power BI File:
 +	The Power BI report file (Project.pbix) is located in the repository.
